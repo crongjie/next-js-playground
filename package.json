@@ -1,0 +1,26 @@
+{
+  "name": "next-js-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crongjie/next-js-playground.git"
+  },
+  "author": "RJ <rongjie.tablet@gmail.com> (http://rj-memo.weebly.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crongjie/next-js-playground/issues"
+  },
+  "homepage": "https://github.com/crongjie/next-js-playground#readme",
+  "dependencies": {
+    "es6-promise": "^4.1.0",
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^2.4.3",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}

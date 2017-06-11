@@ -1,3 +1,11 @@
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+
 # Logs
 logs
 *.log
@@ -57,3 +65,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# next JS
+.next
+.g8
